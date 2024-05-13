@@ -46,12 +46,12 @@ In fourth question I just design first letter of my name in a white page which i
 
 In fifth question a shaded page should be designed. The output is shown below:
 
-![screenshot](Gradient\Gradient.jpg)
+![Gradient](https://github.com/HosseinPashapour/Assignment_26/blob/main/Gradient/Gradient.jpg)
 
 The last question is about drawing a black thick angled line on the left-up of a picture. 
 
 
-![screenshot](Black_Tape\Black_Tape.jpg)
+![Black_Tape](Black_Tape\Black_Tape.jpg)
 
 
 >## How to Run
