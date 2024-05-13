@@ -31,12 +31,14 @@ In third question a picture of two men is given and we should rotate it 180 degr
 
 Befor:
 
-![screenshot](Rotate\Angry_men.jpg)
+![Angry](https://github.com/HosseinPashapour/Assignment_26/blob/main/Rotate/Angry_men.jpg)
+
 
 After:
 
 
-![screenshot](Rotate\Happy_men.jpg)
+![Happy](https://github.com/HosseinPashapour/Assignment_26/blob/main/Rotate/Happy_men.jpg)
+
 
 In fourth question I just design first letter of my name in a white page which is shown below:
 
