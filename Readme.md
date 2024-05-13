@@ -19,13 +19,13 @@ In second question two pictures are given to us and we should invert dark and li
 
 Befor:
 
-![screenshot](Invert_Color\Man.jpg)
-![screenshot](Invert_Color\Woman.jpg)
+![befor](https://github.com/HosseinPashapour/Assignment_26/blob/main/Invert_Color/Man.jpg)
+![befor](https://github.com/HosseinPashapour/Assignment_26/blob/main/Invert_Color/Woman.jpg)
 
 After:
 
-![screenshot](Invert_Color\Invert_Man.jpg)
-![screenshot](Invert_Color\Invert_Woman.jpg)
+![Man](https://github.com/HosseinPashapour/Assignment_26/blob/main/Invert_Color/Invert_Man.jpg)
+![Woman](https://github.com/HosseinPashapour/Assignment_26/blob/main/Invert_Color/Invert_woman.jpg)
 
 In third question a picture of two men is given and we should rotate it 180 degree to make them happy 
 
