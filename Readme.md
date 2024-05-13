@@ -13,7 +13,7 @@ The most famous library for image processing is opencv, so we can use this libra
 In first question a chess board is made and the output is shown below:
 
 
-![chess](https://github.com/javad7189/python-assignment/assets/86910174/547d5bfc-73fb-4f9f-bc0f-9c52c0d93aa5)
+![chess](https://github.com/HosseinPashapour/Assignment_26/blob/main/Chess_Board/ChessBoard.jpg)
 
 In second question two pictures are given to us and we should invert dark and light colors.
 
