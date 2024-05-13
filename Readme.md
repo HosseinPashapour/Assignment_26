@@ -51,7 +51,7 @@ In fifth question a shaded page should be designed. The output is shown below:
 The last question is about drawing a black thick angled line on the left-up of a picture. 
 
 
-![Black_Tape](Black_Tape\Black_Tape.jpg)
+![Black_Tape](https://github.com/HosseinPashapour/Assignment_26/blob/main/Black_Tape/Black_Tape.jpg)
 
 
 >## How to Run
